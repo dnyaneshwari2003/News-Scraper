@@ -53,8 +53,7 @@ This will display the latest Yahoo news headlines.
 
 ## 🔄 How It Works
 1. **Scraping Data**: The script fetches Yahoo's homepage and extracts news headlines using BeautifulSoup.
-2. **Saving to CSV**: The extracted headlines are saved into `news_data.csv`.
-3. **Displaying on Webpage**: The headlines are passed to an HTML template and displayed dynamically.
+2. **Displaying on Webpage**: The headlines are passed to an HTML template and displayed dynamically.
 
 ---
 
