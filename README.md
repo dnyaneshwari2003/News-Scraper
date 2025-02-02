@@ -79,3 +79,6 @@ with open("news_data.csv", 'w', encoding="utf-8", newline="") as output_file:
 Feel free to fork this project and improve it! If you find any issues, create a pull request or open an issue.
 
 ---
+## Output 
+![Screenshot 2025-02-02 193826](https://github.com/user-attachments/assets/0e7154da-893e-44c6-9436-717cf5b0ed59)
+
