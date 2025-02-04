@@ -21,7 +21,6 @@ Run the following command to install required Python libraries:
 ```
 pip install flask beautifulsoup4 requests
 ```
-
 ---
 
 ## 🛠️ Project Structure
