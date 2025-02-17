@@ -7,7 +7,6 @@ This project is a web application built using **Flask** that scrapes news headli
 - Displays the headlines on a simple Flask-powered webpage.
 - Stores the headlines in a CSV file.
 
----
 
 ## 📌 Prerequisites
 Before running the project, ensure you have the following installed:
@@ -21,7 +20,6 @@ Run the following command to install required Python libraries:
 ```
 pip install flask beautifulsoup4 requests
 ```
----
 
 ## 🛠️ Project Structure
 ```
