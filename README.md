@@ -52,13 +52,12 @@ This will display the latest Yahoo news headlines.
 1. **Scraping Data**: The script fetches Yahoo's homepage and extracts news headlines using BeautifulSoup.
 2. **Displaying on Webpage**: The headlines are passed to an HTML template and displayed dynamically.
 
----
+
 
 ## 📝 Customization
 - **Modify `app.py`** to scrape a different website by changing `url = 'http://yahoo.com'`.
 - **Update `index.html`** for a better UI design.
 
----
 
 ## 🛠️ Troubleshooting
 **Issue:** `jinja2.exceptions.TemplateNotFound: index.html`  
