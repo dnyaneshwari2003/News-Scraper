@@ -30,7 +30,7 @@ scrapper/
 
 ```
 
----
+
 
 ## 🔧 How to Run the Project
 
@@ -46,7 +46,7 @@ http://127.0.0.1:5000/
 ```
 This will display the latest Yahoo news headlines.
 
----
+
 
 ## 🔄 How It Works
 1. **Scraping Data**: The script fetches Yahoo's homepage and extracts news headlines using BeautifulSoup.
