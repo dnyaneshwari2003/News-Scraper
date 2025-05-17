@@ -69,7 +69,7 @@ This will display the latest Yahoo news headlines.
 with open("news_data.csv", 'w', encoding="utf-8", newline="") as output_file:
 ```
 
----
+
 
 ## 🤝 Contributing
 Feel free to fork this project and improve it! If you find any issues, create a pull request or open an issue.
